@@ -1,0 +1,5 @@
+getwd()
+library(ggplot2)
+library(shiny)
+setwd("/home/pc799/code/rstudio/pro1")
+runApp()
